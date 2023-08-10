@@ -16,7 +16,7 @@ To optimize the layout of a Warehouse
 - 59,372 orders
 - 4,864 active references
 
-![This is an image](https://miro.medium.com/max/581/1*IflUKgeDKIjSiaOkdP1mnw.png)
+[This is an image](https://miro.medium.com/max/581/1*IflUKgeDKIjSiaOkdP1mnw.png)
 
 ## Code
 This repository code you will find all the code used to explain the concepts tackeld in the article with a dataset of orders.
