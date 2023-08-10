@@ -15,8 +15,9 @@ To optimize the layout of a Warehouse
 - 144,339 order lines
 - 59,372 orders
 - 4,864 active references
+![image](https://github.com/Abhudeep/pareto-warehouse-layout/assets/122337998/6584ee2e-ba78-41cc-ad40-368793fd55cd)
 
-[This is an image](https://miro.medium.com/max/581/1*IflUKgeDKIjSiaOkdP1mnw.png)
+
 
 ## Code
 This repository code you will find all the code used to explain the concepts tackeld in the article with a dataset of orders.
